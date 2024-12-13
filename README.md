@@ -1,6 +1,6 @@
 # Microglia
 
-# Gene-TF Linear Regression Analysis
+# Gene-TF Regression Analysis
 
 This repository contains an R script for analyzing gene expression data to identify relationships between target genes and transcription factors (TFs) using linear regression models. The script evaluates TF interactions at various levels and outputs significant findings for further analysis.
 
