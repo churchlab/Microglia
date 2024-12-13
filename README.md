@@ -89,7 +89,7 @@ All outputs are saved in the `output_files_3000/` directory.
 Run the script in R:
 
 ```r
-source("<script_name>.R")
+source("analysis_script.R")
 
 
 
