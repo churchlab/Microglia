@@ -32,7 +32,7 @@ This repository contains an R script for analyzing gene expression data to ident
 - **Base R** (for running `lm()`, `summary()`, `data.frame()`, etc.)
 
 ## R Version
-- **R > 4.0.1**
+- **R version > 4.0.1**
 
 ---
 
