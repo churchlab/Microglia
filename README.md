@@ -25,14 +25,6 @@ This repository contains an R script for analyzing gene expression data to ident
   - `PGP1_QCed_raw_counts_df.rds`: Dense gene expression matrix.
   - `pearson_cor_pgp1_2019-12-26.rds`: Precomputed Pearson correlation matrix.
 
-## Operating System (OS)
-- Linux (e.g., Ubuntu 18.04, 20.04, or 22.04) or macOS
-
-## Software Dependencies
-- **Base R** (for running `lm()`, `summary()`, `data.frame()`, etc.)
-
-## R Version
-- **R version > 4.0.1**
 
 ---
 
@@ -100,8 +92,7 @@ Run the script in R:
 ```r
 source("analysis_script.R")
 
-
-
+---
 ## Directory Structure
 
 Ensure the following directory structure is in place:
@@ -114,3 +105,14 @@ project_root/
 │   └── (optional) other input files
 ├── output_files_3000/   # Directory for output files
 ├── analysis_script.R    # The script provided
+
+## Operating System (OS)
+- Linux (e.g., Ubuntu 18.04, 20.04, or 22.04) or macOS
+
+## Software Dependencies
+- **Base R** (for running `lm()`, `summary()`, `data.frame()`, etc.)
+
+## R Version
+- **R version > 4.0.1**
+
+
