@@ -85,13 +85,13 @@ All outputs are saved in the `output_files_3000/` directory.
 ---
 
 ## Usage
-### Operating System (OS)
+#### Operating System (OS)
 - Linux (e.g., Ubuntu 18.04, 20.04, or 22.04) or macOS
 
-### Software Dependencies
+#### Software Dependencies
 - **Base R** (for running `lm()`, `summary()`, `data.frame()`, etc.)
 
-### R Version
+#### R Version
 - **R version > 4.0.1**
 
 
