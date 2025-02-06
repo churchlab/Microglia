@@ -99,6 +99,9 @@ All outputs are saved in the `output_files_3000/` directory.
 ### Run the Script
 Run the script in R:
 
+The execution time of this script depends on system specifications and input gene list. On a standard desktop computer (e.g., Intel Core i7, 16GB RAM), the expected run time is approximately 2 minutes for a typical dataset (5~10 genes). Performance may vary based on hardware, dataset size, and system load.
+
+
 ```r
 source("analysis_script.R")
 
