@@ -1,4 +1,5 @@
 # Microglia
+This code can be used freely for academic purposes.
 
 # Gene-TF Regression Analysis
 
